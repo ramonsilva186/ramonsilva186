@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ramonsilva186/ramonsilva186/blob/main/nome_github.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java to frontend, learning ReactTS and Angular, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack entry-level developer</strong> focused on back-end development.</p>&nbsp;
+<p align="center">I love solve great challenges using tech. <br><br> From backend development using Java to frontend, learning ReactTS and Angular, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack entry-level developer</strong> focused on back-end development.</p>&nbsp;
 
  &nbsp;
  &nbsp;
@@ -57,4 +57,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f86d6&height=120&section=footer"/>
